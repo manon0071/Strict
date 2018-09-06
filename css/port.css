@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+}
+
+/*img{
+    display: block;
+}*/
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+/*Portfolio */
+.porfolio{
+	width: 100%;
+	margin: 5% auto;
+	float: left;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.porfolio-element {
+	text-align: center;
+}
+.porfolio-element h2 {
+	font-size: 30px;
+	color: #2d3950;
+	font-weight: 400;
+}
+.porfolio-element p {
+	font-size: 15px;
+	margin: 10px 0 40px 0;
+	color: #909090;
+	font-weight: 400;
+}
+.grid {
+	
+}
+.grid:hover .overlay-effect{
+	
+}
+.overlay-effect {
+	
+}
+.overlay-effect ul {
+	
+}
+.overlay-effect ul li {
+	
+}
+.overlay-effect ul li a {
+	
+}
+.overlay-effect ul li a:hover {
+	
+}
